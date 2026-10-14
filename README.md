@@ -7,7 +7,7 @@ This repository contains my Quarto website for ETC5523 Assignment 3: Creating a 
 
 ## Website
 
-The public website URL will be added here after publishing to GitHub Pages.
+https://etc5523-2026.github.io/etc5523-assignment-3-asri0053/
 
 ## Blog post
 
