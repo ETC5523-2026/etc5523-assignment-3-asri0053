@@ -2,12 +2,12 @@ project:
   type: website
 
 website:
-  title: "blog-template"
+  title: "Data Stories by Aditi"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/etc5523-2022
+        href: https://github.com/asri0053
 format:
   html:
     theme: cosmo

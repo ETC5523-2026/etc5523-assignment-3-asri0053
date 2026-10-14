@@ -1,13 +1,16 @@
 ---
-title: "About"
+title: "Aditi Srinivas"
 image: profile.jpg
 about:
   template: jolla
   links:
     - icon: github
-      text: Github
-      href: https://github.com/etc5523-2022
-
+      text: GitHub
+      href: https://github.com/asri0053
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+Hi, I’m Aditi! I’m pursuing a Master of Business Analytics at Monash University in Melbourne, with a background in Information Science and experience in programmatic advertising at MiQ.
+
+Working with campaign performance data sparked my interest in how analysis can inform business decisions. I’m particularly interested in marketing analytics, data visualisation and communicating findings clearly.
+
+This blog is a space where I explore data and share the stories behind it. Outside my studies, I enjoy travelling and exploring new places.
