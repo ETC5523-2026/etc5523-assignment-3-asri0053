@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Aditi Srinivas",
+    "section": "",
+    "text": "Hi, I’m Aditi! I’m pursuing a Master of Business Analytics at Monash University in Melbourne, with a background in Information Science and experience in Programmatic Advertising at MiQ Digital.\nWorking with campaign performance data sparked my interest in how analysis can inform business decisions. I’m particularly interested in marketing analytics, data visualisation and communicating findings clearly.\nThis blog is a space where I explore data and share the stories behind it. Outside my studies, I enjoy travelling and exploring new places!"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Not All Hospital Infections Have the Same Impact",
+    "section": "",
+    "text": "Imagine you are looking at a hospital’s infection statistics. One type of infection appears far more often than the others. Should it automatically receive the most attention?\nCounting infections is a useful starting point, but it leaves out what happens to patients afterwards. An infection that occurs less frequently can still cause substantial harm through serious illness or premature death. Understanding this difference matters when interpreting health statistics and discussions about prevention.\nA study by Zacher et al. (2019) explored this issue using five common healthcare-associated infections in Germany. Its findings offer a useful lesson: to understand the impact of infections, we need to consider both how often they occur and how much healthy life is lost."
+  },
+  {
+    "objectID": "posts/welcome/index.html#does-more-common-mean-more-harmful",
+    "href": "posts/welcome/index.html#does-more-common-mean-more-harmful",
+    "title": "Not All Hospital Infections Have the Same Impact",
+    "section": "",
+    "text": "Imagine you are looking at a hospital’s infection statistics. One type of infection appears far more often than the others. Should it automatically receive the most attention?\nCounting infections is a useful starting point, but it leaves out what happens to patients afterwards. An infection that occurs less frequently can still cause substantial harm through serious illness or premature death. Understanding this difference matters when interpreting health statistics and discussions about prevention.\nA study by Zacher et al. (2019) explored this issue using five common healthcare-associated infections in Germany. Its findings offer a useful lesson: to understand the impact of infections, we need to consider both how often they occur and how much healthy life is lost."
+  },
+  {
+    "objectID": "posts/welcome/index.html#looking-beyond-the-case-count",
+    "href": "posts/welcome/index.html#looking-beyond-the-case-count",
+    "title": "Not All Hospital Infections Have the Same Impact",
+    "section": "Looking beyond the case count",
+    "text": "Looking beyond the case count\nTo compare these consequences, the researchers used disability-adjusted life years, or DALYs. One DALY represents the equivalent of one year of healthy life lost. The measure combines years lost through premature death with time spent in poorer health, weighted by its severity.\nThis gives us two different questions:\n\nCases: How often does an infection occur?\nHealthy years lost: How much health loss does it cause across the population?\n\nThe study drew on the European Centre for Disease Prevention and Control’s hospital survey conducted in 2011–2012. The representative German sample included 9,626 patients from 46 hospitals.\nThe researchers combined this snapshot with information about hospital stays, infection duration and hospital discharges to estimate annual cases. They then used disease-progression models to estimate deaths and healthy years lost, accounting for patients’ age, sex and underlying illness.\nThe results describe estimated infections occurring in Germany in 2011. They are not current infection counts."
+  },
+  {
+    "objectID": "posts/welcome/index.html#the-most-common-infections-did-not-dominate-every-measure",
+    "href": "posts/welcome/index.html#the-most-common-infections-did-not-dominate-every-measure",
+    "title": "Not All Hospital Infections Have the Same Impact",
+    "section": "The most common infections did not dominate every measure",
+    "text": "The most common infections did not dominate every measure\nThe contrast becomes clear in Figure 1. Urinary tract infections accounted for about 45% of estimated cases, but approximately 27% of estimated healthy years lost.\nPrimary bloodstream infections showed the opposite pattern: they accounted for only about 6% of cases, yet approximately 23% of healthy years lost.\n\n\n\n\n\n\n\n\nFigure 1: Approximate shares of estimated cases and healthy years lost across five healthcare-associated infection types in Germany, 2011. Calculated from the infection-specific median estimates divided by the corresponding overall median in Table 1 of Zacher et al. (2019). Medians are not additive, so shares need not total 100%. Uncertainty intervals are not shown; these bars describe point estimates, not statistically established rankings.\n\n\n\n\n\nTogether, pneumonia and primary bloodstream infections represented approximately 28% of cases but 51% of healthy years lost, using the reported point estimates. Their impact would be easy to underestimate if we looked only at infection counts.\nThis does not mean urinary tract infections are unimportant. Their frequency still contributed to a large total health burden. Rather, the comparison shows why a single measure cannot capture every aspect of the problem."
+  },
+  {
+    "objectID": "posts/welcome/index.html#how-large-was-the-overall-burden",
+    "href": "posts/welcome/index.html#how-large-was-the-overall-burden",
+    "title": "Not All Hospital Infections Have the Same Impact",
+    "section": "How large was the overall burden?",
+    "text": "How large was the overall burden?\nThe differences between infection types sit within a substantial overall burden. Table 1 summarises the study’s estimates for all five types combined: pneumonia, primary bloodstream infection, urinary tract infection, surgical-site infection and Clostridioides difficile infection.\n\n\n\nTable 1: Estimated burden associated with five healthcare-associated infection types occurring in Germany in 2011. Values are medians and 95% uncertainty intervals, adapted from Table 1 of Zacher et al. (2019).\n\n\n\n\n\nMeasure\nEstimated total\n95% uncertainty interval\n\n\n\n\nInfection cases\n478,222\n421,350–537,787\n\n\nDeaths attributable to the infections\n16,245\n10,863–22,756\n\n\nHealthy years lost (DALYs)\n248,920\n178,693–336,239\n\n\n\n\n\n\nThese are modelled estimates, rather than a direct count of every infection and death. “Attributable deaths” refers to deaths estimated to result from the infections, rather than all deaths among patients who had an infection.\nThe intervals show how uncertain the estimates are under the model. For example, the estimated loss of healthy life was approximately 249,000 years, with a 95% uncertainty interval spanning roughly 179,000 to 336,000. Reading the central estimate alongside this range gives a more honest picture than treating it as an exact total."
+  },
+  {
+    "objectID": "posts/welcome/index.html#what-these-numbers-cannot-tell-us",
+    "href": "posts/welcome/index.html#what-these-numbers-cannot-tell-us",
+    "title": "Not All Hospital Infections Have the Same Impact",
+    "section": "What these numbers cannot tell us",
+    "text": "What these numbers cannot tell us\nBefore turning these findings into prevention priorities, we need to recognise their limits.\nFirst, the estimates concern 2011. They cannot tell us Germany’s infection burden today, or an individual patient’s current risk. The analysis also covered five infection types, rather than every healthcare-associated infection.\nSecond, the estimates depend on assumptions about how infections progress and affect patients’ lives. Some supporting evidence was limited. Information about underlying illness from European patients was applied to Germany because the relevant German data were unavailable. These assumptions can influence estimated health loss.\nFinally, a high burden does not automatically identify the best prevention programme. That decision also requires evidence about how many infections can be prevented, whether an intervention works and what it costs to implement."
+  },
+  {
+    "objectID": "posts/welcome/index.html#the-takeaway-ask-what-is-being-counted",
+    "href": "posts/welcome/index.html#the-takeaway-ask-what-is-being-counted",
+    "title": "Not All Hospital Infections Have the Same Impact",
+    "section": "The takeaway: ask what is being counted",
+    "text": "The takeaway: ask what is being counted\nAre the most common hospital infections also the most harmful? Not necessarily: their shares of cases and healthy years lost can differ substantially.\nIn this study, urinary tract infections dominated case numbers, while pneumonia and primary bloodstream infections together accounted for about half of estimated health loss. Looking at both measures makes that contrast visible.\nFor readers of health statistics, the useful habit is to ask: does this number describe how often a problem occurs, or the consequences it has? Case counts matter, but understanding their human impact requires looking beyond the count."
+  },
+  {
+    "objectID": "posts/welcome/index.html#reference",
+    "href": "posts/welcome/index.html#reference",
+    "title": "Not All Hospital Infections Have the Same Impact",
+    "section": "Reference",
+    "text": "Reference\nZacher, B., Haller, S., Willrich, N., Walter, J., Abu Sin, M., Cassini, A., Plachouras, D., Suetens, C., Behnke, M., Gastmeier, P., Wieler, L. H., & Eckmanns, T. (2019). Application of a new methodology and R package reveals a high burden of healthcare-associated infections (HAI) in Germany compared to the average in the European Union/European Economic Area, 2011 to 2012. Eurosurveillance, 24(46), 1900135. Read the original study."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Stories by Aditi",
+    "section": "",
+    "text": "Welcome! I’m Aditi, a Master of Business Analytics student at Monash University. Here, I explore the stories behind data and what they mean for everyday decisions."
+  },
+  {
+    "objectID": "index.html#latest-stories",
+    "href": "index.html#latest-stories",
+    "title": "Data Stories by Aditi",
+    "section": "Latest stories",
+    "text": "Latest stories"
+  }
+]

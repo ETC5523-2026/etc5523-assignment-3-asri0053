@@ -1,0 +1,162 @@
+:root {
+  --page: #faf7f2;
+  --ink: #292630;
+  --plum: #563751;
+  --lavender: #e9e0ec;
+  --border: #dfd5df;
+}
+
+body {
+  background: var(--page);
+  color: var(--ink);
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.75;
+}
+
+h1, h2, h3, h4 {
+  color: var(--plum);
+  font-weight: 650;
+  line-height: 1.25;
+}
+
+h1 {
+  letter-spacing: -0.035em;
+}
+
+h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  margin-bottom: 1.25rem;
+}
+
+a {
+  color: #69416f;
+  text-underline-offset: 0.2em;
+}
+
+a:hover {
+  color: #45264b;
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: 3px solid #237a83;
+  outline-offset: 4px;
+}
+
+.navbar {
+  background: var(--lavender);
+  border-bottom: 1px solid var(--border);
+  padding-block: 1rem;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #39283f;
+}
+
+.navbar-brand {
+  font-weight: 650;
+}
+
+.quarto-title-banner {
+  background: var(--lavender);
+  padding-block: 3rem;
+}
+
+.quarto-title-banner h1,
+.quarto-title-banner .title {
+  color: #39283f;
+}
+
+.quarto-title-banner .subtitle {
+  color: #574b5d;
+  font-size: 1.2rem;
+  margin-top: 0.8rem;
+}
+
+#quarto-content {
+  padding-top: 2rem;
+}
+
+.quarto-listing-default .quarto-post {
+  background: #fffdfb;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.quarto-post .listing-title {
+  font-size: 1.55rem;
+  line-height: 1.3;
+}
+
+.quarto-post .listing-description {
+  color: #554e59;
+}
+
+.quarto-category {
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.2rem 0.65rem;
+  color: var(--plum);
+}
+
+div.quarto-about-jolla .about-image {
+  border-radius: 50%;
+  object-fit: cover;
+  border: 5px solid var(--lavender);
+}
+
+div.quarto-about-jolla .about-link {
+  border: 1px solid var(--plum);
+  border-radius: 999px;
+  padding: 0.55rem 1rem;
+  color: var(--plum);
+  text-decoration: none;
+}
+
+div.quarto-about-jolla .about-link:hover {
+  background: var(--plum);
+  color: white;
+}
+
+figcaption,
+.table-caption {
+  color: #59515d;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.table {
+  --bs-table-bg: transparent;
+  border-color: var(--border);
+}
+
+.table thead {
+  background: var(--lavender);
+}
+
+.table th,
+.table td {
+  padding: 0.85rem;
+}
+
+@media (max-width: 767px) {
+  .quarto-title-banner {
+    padding-block: 2rem;
+  }
+
+  .quarto-listing-default .quarto-post {
+    padding: 1rem;
+  }
+
+  .quarto-post .listing-title {
+    font-size: 1.3rem;
+  }
+}
