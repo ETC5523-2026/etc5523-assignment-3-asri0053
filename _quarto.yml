@@ -9,6 +9,9 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/asri0053
+      - icon: linkedin
+        href: https://www.linkedin.com/in/aditi-srinivas/
+        aria-label: LinkedIn
 format:
   html:
     theme: cosmo

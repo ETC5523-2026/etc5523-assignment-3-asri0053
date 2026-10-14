@@ -1,5 +1,6 @@
 ---
-title: "ETC5523 Blog Assessment"
+title: "Data Stories by Aditi"
+subtitle: "Exploring data. Understanding its impact."
 listing:
   contents: posts
   sort: "date desc"
@@ -11,4 +12,6 @@ page-layout: full
 title-block-banner: true
 ---
 
+Welcome! I’m Aditi, a Master of Business Analytics student at Monash University. Here, I explore the stories behind data and what they mean for everyday decisions.
 
+## Latest stories
